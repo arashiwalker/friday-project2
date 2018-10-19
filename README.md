@@ -18,7 +18,7 @@
 
 * _Fade ins / Fade outs of coding language information_
 * _Background / font changing color from clicking buttons_
-* _in a simple_
+* _multiple pages_
 * _suggested language based on inputed answers_
 #_fill out an appointment on 2nd page_
 

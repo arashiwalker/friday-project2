@@ -14,21 +14,21 @@
 }
 
 .green-background {
-  background-color: green;
+    background-image: linear-gradient(green, white);
 }
 
 .yellow-background {
-  background-color: yellow;
+  background-image: linear-gradient(red, yellow);
  color: purple;
 }
 
 .red-background {
-  background-color: red;
+  background-image: linear-gradient(purple, red);
  color: orange;
 }
 
 .blue-background {
-  background-color: pink;
+    background-image: linear-gradient(blue, yellow);
  color: white;
 }
 
@@ -56,6 +56,10 @@
   display: none;
 }
 
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
 
 ul {
     list-style-type: none;
