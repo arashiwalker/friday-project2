@@ -1,0 +1,14 @@
+
+#header {
+  text-align: center;
+  font-family: 'arial' ;
+  font-size: 72px;
+}
+
+#ruby {
+  display: flex;
+  margin: 0 auto;
+  padding-bottom: 15px;
+  width: 1300px;
+   height: 700px;
+}
