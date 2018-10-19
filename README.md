@@ -32,7 +32,7 @@ _Arashi walker - phone (123)123-1234 - email arashiwalker@gmail.com_
 
 ## Technologies Used
 
-_HTML, CSS, Jquery-3.3.1, JavaScript, Bootstrap_
+_HTML,_ _CSS,_ _Jquery-3.3.1,_ _JavaScript,_ _Bootstrap_
 
 
 ### License

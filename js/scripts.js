@@ -3,7 +3,7 @@ $(document).ready(function() {
 $("button#green").click(function() {
     $("body").removeClass();
     $("body").addClass("green-background");
-    $(".C-showing").fadeToggle();
+    $(".C-showing").slideToggle();
     $(".react-showing").hide();
     $(".rails-showing").hide()
     $(".ruby-showing").hide()
@@ -21,7 +21,7 @@ $("button#green").click(function() {
   $("button#red").click(function() {
     $("body").removeClass();
     $("body").addClass("red-background");
-    $(".ruby-showing").fadeToggle();
+    $(".ruby-showing").slideToggle();
     $(".react-showing").hide();
     $(".rails-showing").hide()
     $(".C-showing").hide()
@@ -105,6 +105,5 @@ $(function(){
     $("#time").text(time);
     $("#DoA").text(DoA);
     $("#appointment-modal").toggle();
-    // $(".modal-body").text();
   });
 });
