@@ -19,15 +19,36 @@
 
 .yellow-background {
   background-color: yellow;
+ color: purple;
 }
 
 .red-background {
   background-color: red;
+ color: orange;
 }
 
 .blue-background {
-  background-color: blue;
+  background-color: pink;
+ color: white;
 }
+
+.ruby-showing {
+  display: none;
+}
+
+.C-showing {
+  display: none;
+}
+
+.rails-showing {
+  display: none;
+}
+
+.react-showing {
+  display: none;
+}
+
+
 
 ul {
     list-style-type: none;
