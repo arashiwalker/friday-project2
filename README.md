@@ -6,13 +6,13 @@
 
 ## Description
 
-_Friday Project based from the following objectives_
-_Site uses brancing to return the result_
-_jQuery is used to show and hide the result after questions are answered and submitted_
-_Form gathers input from the user_
-_Variable names are descriptive of what they represent_
-_Web page is styled using Bootstrap and custom CSS_
-_The project is in a presentable, portfolio-quality state_
+* _Friday Project based from the following objectives_
+* _Site uses branching to return the result_
+* _jQuery is used to show and hide the result after questions are answered and submitted_
+* _Form gathers input from the user_
+* _Variable names are descriptive of what they represent_
+* _Web page is styled using Bootstrap and custom CSS_
+* _The project is in a presentable, portfolio-quality state_
 
 ## functions/features
 
@@ -20,11 +20,11 @@ _The project is in a presentable, portfolio-quality state_
 * _Background / font changing color from clicking buttons_
 * _in a simple_
 * _suggested language based on inputed answers_
-
+#_fill out an appointment on 2nd page_
 
 ## Known Bugs
 
-_home, news, contact, about template on top of page for looks and not functional
+N/A
 
 ## Support and contact details
 
@@ -32,10 +32,7 @@ _Arashi walker - phone (123)123-1234 - email arashiwalker@gmail.com_
 
 ## Technologies Used
 
-_HTML_
-_CSS_
-_Jquery-3.3.1_
-_JavaScript_
+_HTML, CSS, Jquery-3.3.1, JavaScript, Bootstrap_
 
 
 ### License

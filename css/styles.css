@@ -52,6 +52,10 @@
   display: none;
 }
 
+#appointment-modal{
+  display: none;
+}
+
 
 ul {
     list-style-type: none;

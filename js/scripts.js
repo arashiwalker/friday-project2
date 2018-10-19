@@ -92,3 +92,19 @@ $("#detailsform").submit(function(event) {
   choose(nameInput, signInput, ageInput);
   });
 });
+
+$(function(){
+  $('#appointment').submit(function(event){
+    event.preventDefault();
+    var name = $("#name1").val();
+    var DoA =  $("#DoA1").val();
+    var date = $("#date1").val();
+    var time = $("#time1").val();
+    $("#name").text(name);
+    $("#date").text(date);
+    $("#time").text(time);
+    $("#DoA").text(DoA);
+    $("#appointment-modal").toggle();
+    // $(".modal-body").text();
+  });
+});
