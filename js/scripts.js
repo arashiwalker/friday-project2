@@ -1,3 +1,4 @@
+//Functions for language description buttons// 
 $(document).ready(function() {
 
 $("button#green").click(function() {
@@ -36,7 +37,7 @@ $("button#green").click(function() {
     $(".ruby-showing").hide()
   });
 });
-
+//functions for track suggestions//
 var nameInput;
 var signInput;
 var ageInput;
@@ -81,7 +82,7 @@ function choose(){
     $("#code3").hide();
   }
 }
-
+//functions for appointments //
 $(document).ready(function() {
 $("#detailsform").submit(function(event) {
   event.preventDefault();
